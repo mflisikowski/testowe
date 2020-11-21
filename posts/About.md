@@ -4,6 +4,4 @@
 
   Każdy z członków zespołu charakteryzuje się najwyższym poziomem profesjonalizmu w swojej dziedzinie. W swoim dorobku posiadamy prace o zróżnicowanym stopniu trudności, poczynając od prostych standardowych rozwiązań, na skomplikowanych, nieszablonowych projektach architektonicznych kończąc  wykraczających daleko poza tradycyjne układanie glazury.
 
-![hero-image](/images/hero-image.jpg)
-
 [Poznaj ofertę](https://github.com/mflisikowski/testowe/edit/main/posts/About.md)
