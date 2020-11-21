@@ -4,4 +4,7 @@ Od przeszło 15 lat świadczymy usługi glazurnicze w formie firmy rodzinnej na 
 
 Każdy z członków zespołu charakteryzuje się najwyższym poziomem profesjonalizmu w swojej dziedzinie. W swoim dorobku posiadamy prace o zróżnicowanym stopniu trudności, poczynając od prostych standardowych rozwiązań, na skomplikowanych, nieszablonowych projektach architektonicznych kończąc  wykraczających daleko poza tradycyjne układanie glazury.
 
+### More Images
+![hero-image](../assets/images/hero-image.jpg)
+
 [Poznaj ofertę](https://github.com/mflisikowski/testowe/edit/main/posts/About.md)
